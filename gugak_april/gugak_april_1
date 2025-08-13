@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="utf-8" />
+<title>국립국악원 뉴스레터 2025 APR Vol.370</title>
+<style>
+* {margin:0; padding:0;}
+area {cursor: pointer;}
+</style>
+</head>
+<body>
+<img src="gugak_apr_1.jpg" alt="" width="730" height="2475" border="0" usemap="#gugakMap" />
+<map name="gugakMap" id="gugakMap">
+
+    <!-- 콘텐츠 -->
+    <!-- MAIN1(높이130) -->
+    <area shape="rect" onfocus="this.blur()" coords="38,600,691,729" href="https://www.gugak.go.kr/site/program/performance/detail?menuid=001001001&performance_id_main=33952" target="_blank" alt="4월 23일 창작악단 기획공연 수작數作" />
+    <!-- MAIN1(높이130) -->
+
+    <!-- MAIN2(높이174) -->
+    <area shape="rect" onfocus="this.blur()" coords="38,830,691,1003" href="https://www.gugak.go.kr/site/program/performance/detail?menuid=001001001&performance_id_main=34146" target="_blank" alt="5월 4일 ~ 5월 5일 어린이날 기획공연 막대뚝딱 피지컬 뿔난 오니 출연: 신비한 움직임 사전" />
+    <!-- MAIN2(높이174) -->
+
+    <!-- 2칸 공연 -->
+    <area shape="rect" coords="35,1163,96,1191" href="https://www.gugak.go.kr/site/program/performance/detail?menuid=001001001&performance_id=34768" target="_blank" alt="[4월 19일] 토요명품 한국의 멋과 신명" />
+    <area shape="rect" coords="110,1163,171,1191" href="https://www.gugak.go.kr/site/program/performance/detail?menuid=001001001&performance_id=34770" target="_blank" alt="[4월 26일] 토요명품 한국의 멋과 신명" />
+    <!-- 2칸 공연 -->
+
+    <!-- 2칸 공연(높이315)-->
+    <area shape="rect" coords="379,1093,694,1405" href="https://www.gugak.go.kr/site/program/performance/detail?menuid=001001001&performance_id=33988" target="_blank" alt="4월 19일 / 4월 26일 토요국악동화 부래산의 전설 출연: 문화예술굼터 뽱" />
+    <!-- 2칸 공연(높이315)-->
+    
+    <!-- 2칸 공연(높이313) -->
+    <area shape="rect" coords="35,1445,346,1757" href="https://www.gugak.go.kr/site/program/performance/detail?menuid=001001001&performance_id_main=34079" target="_blank" alt="4월 30일 다담 AI의 모든 것! A부터 Z까지! *이야기 손님: 김상균(인지과학자, 경희대학교 경영대학원 교수)" />
+    <!-- 2칸 공연(높이313) -->
+
+    <!--SPECIAL-->
+    <area shape="rect" coords="35,1882,351,2028" href="https://blog.naver.com/gugak1951/223815785108" target="_blank" alt="악기를 만드는 나무 – 2 오동나무" />
+    <!--SPECIAL-->
+
+    <!--NOTICE-->
+    <area shape="rect" coords="379,1882,692,2028" href="https://www.gugak.go.kr/site/program/board/basicboard/view?menuid=001005006002&pagesize=10&boardtypeid=60&boardid=46694" target="_blank" alt="숫자로 표현한 국악, 수작‘數作’을 만나보세요" />
+    <!--NOTICE-->
+
+    <!--MAGAZINE-->
+    <area shape="rect" coords="161,2061,692,2148" href="https://media.gugak.go.kr/100_ncktpa/910_gugaksosik/gugaknuri/ttsbook/vol202/VRiBooks.htm?0" target="_blank" alt="더 많은 소식이 궁금하다면? 2025 3+4월호 국악누리" />
+    <!--MAGAZINE-->
+
+    <!-- //콘텐츠 -->
+
+    <!-- 좌측하단메뉴 -->
+    <area shape="rect" coords="35,2333,109,2359" href="https://archive.gugak.go.kr/portal/main" target="_blank" alt="(웹)국악아카이브" />
+    <area shape="rect" coords="113,2333,205,2359" href="https://academy.gugak.go.kr/common/greeting.do" target="_blank" alt="(웹)e-국악아카데미" />
+    <area shape="rect" coords="210,2333,279,2359" href="https://www.gugak.go.kr/site/program/gugakdata/dataList?menuid=001003004002001&book_type=%EB%8F%84%EC%84%9C&lang=ko" target="_blank" alt="(웹)국악자료실" />
+    <area shape="rect" coords="283,2333,343,2359" href="https://www.gugak.go.kr/ency/" target="_blank" alt="(웹)국악사전" />
+    <!-- 좌측하단메뉴 -->
+
+    <!-- 좌측하단아이콘 -->
+    <area shape="rect" coords="35,2279,75,2320 " href="https://www.gugak.go.kr" target="_blank" alt="(SNS)홈 국립국악원 누리집" />
+    <area shape="rect" coords="83,2279,123,2320" href="https://blog.naver.com/gugak1951" target="_blank" alt="(SNS)블로그" />
+    <area shape="rect" coords="131,2279,171,2320" href="https://www.instagram.com/gugak1951/" target="_blank" alt="(SNS)인스타그램" />
+    <area shape="rect" coords="179,2279,219,2320" href="https://www.facebook.com/gugak1951" target="_blank" alt="(SNS)페이스북" />
+    <area shape="rect" coords="227,2279,267,2320" href="https://x.com/gugak1951" target="_blank" alt="(SNS)X" />
+    <area shape="rect" coords="275,2279,315,2320" href="https://www.youtube.com/@gugak1951" target="_blank" alt="(SNS)유튜브" />
+    <area shape="rect" coords="323,2279,363,2320" href="http://pf.kakao.com/_TxbRyd" target="_blank" alt="(SNS)카카오채널" />
+    <!-- 좌측하단아이콘 -->
+    
+    <!-- 수신거부링크 -->
+    <area shape="rect" coords="170,2386,207,2403" href="#" target="_blank" alt="본 메일은 정보통신망 이용촉진 및 정보보호 등에 관한 법률시행규칙에 의거하여, 발송일 기준 수신동의 여부를 확인 후 발송되었습니다. 이 메일을 더 이상 받지 않으시려면 수신거부를 클릭해주세요.  If you don’t want to receive this e-mail anymore, CLICK HERE." />
+    <area shape="rect" coords="238,2399,296,2418" href="#" target="_blank" alt="본 메일은 정보통신망 이용촉진 및 정보보호 등에 관한 법률시행규칙에 의거하여, 발송일 기준 수신동의 여부를 확인 후 발송되었습니다. 이 메일을 더 이상 받지 않으시려면 수신거부를 클릭해주세요.  If you don’t want to receive this e-mail anymore, CLICK HERE." />
+    <!-- 수신거부링크 -->
+</map>
+</body>
+</html>
