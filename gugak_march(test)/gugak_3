@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="utf-8" />
+<title>국립국악원 뉴스레터 2025 MAR Vol.333</title>
+<style>
+* {margin:0; padding:0;}
+area {cursor: pointer;}
+</style>
+</head>
+<body>
+<img src="gugak_newsletter_march_333.jpg" alt="" width="730" height="2747" border="0" usemap="#gugakMap" />
+<map name="gugakMap" id="gugakMap">
+
+    <!-- 콘텐츠 -->
+    <!-- MAIN1(높이130) -->
+    <area shape="rect" onfocus="this.blur()" coords="38,600,691,729" href="https://www.gugak.go.kr/site/program/performance/detail?menuid=001001001&performance_id_main=33948" target="_blank" alt="3월 27일 ~ 3월 28일 창작악단 정기공연 <작곡가 시리즈 IV - 이상규>" />
+    <!-- MAIN1(높이130) -->
+
+    <!-- MAIN2(높이130) -->
+    <area shape="rect" onfocus="this.blur()" coords="38,830,691,957" href="https://www.gugak.go.kr/site/program/performance/detail?menuid=001001001&performance_id_main=34130" target="_blank" alt="4월 10일 ~ 4월 11일 민속악단 정기공연 다시 그리는 노래" />
+    <!-- MAIN2(높이130) -->
+
+    <!-- 2칸 공모/교육(높이310) -->
+    <area shape="rect" coords="35,1045,346,1355" href="https://www.gugak.go.kr/site/program/board/basicboard/view?menuid=001005006001&pagesize=10&boardtypeid=58&boardid=46601&lang=ko" target="_blank" alt="접수기간: 4월 7일 ~ 4월 9일 제14회 국악동요 부르기 한마당 참가자 모집" />
+    <area shape="rect" coords="379,1045,692,1355" href="https://www.gugak.go.kr/site/program/board/basicboard/view?menuid=001005006001&pagesize=10&boardtypeid=58&boardid=46565&lang=ko" target="_blank" alt="접수기간: 4월 14일 ~ 4월 17일 2025 접근성 높은 국악 공연 제작 워크숍 참여자 모집" />
+    <area shape="rect" coords="35,1395,346,1705" href="https://www.gugak.go.kr/site/program/board/basicboard/view?menuid=001005006001&pagesize=10&boardtypeid=58&boardid=46575&lang=ko" target="_blank" alt="2025 토요국악동화 출연 작품 제작 공모" />
+    <!-- 2칸 공모(높이310) -->
+
+    <!-- 2칸 공연(높이30) 첫 링크만 기재된 링크대로 넣어두고, 날짜별로 다름을 보이기 위해 나머지엔 다른 임의의 링크를 넣었습니다.-->
+    <area shape="rect" coords="379,1493,426,1523" href="https://www.gugak.go.kr/site/program/performance/detail?menuid=001001001&performance_id=33515" target="_blank" alt="[2월 1일] 2월, 매주 토요일 토요명품" />
+    <area shape="rect" coords="439,1493,486,1523" href="https://academy.gugak.go.kr/open/foreigner/main.do" target="_blank" alt="[2월 8일] 2월, 매주 토요일 토요명품" />
+    <area shape="rect" coords="497,1493,558,1523" href="https://academy.gugak.go.kr/open/children/main.do" target="_blank" alt="[2월 22일] 2월, 매주 토요일 토요명품" />
+    <!-- 2칸 공연(높이30)-->
+    
+    <!-- 2칸 공연(높이310) -->
+    <area shape="rect" coords="35,1750,346,2060" href="https://www.gugak.go.kr/site/program/performance/detail?menuid=001001001&performance_id_main=34079" target="_blank" alt="3월 26일 다담 봄, 잠자고 있던 미생물을 깨우다 *이야기 손님: 김응빈(연세대학교 시스템생물학과 교수)" />
+    <!-- 2칸 공연(높이310) -->
+
+    <!-- 2칸 공연(높이30) 첫 링크만 기재된 링크대로 넣어두고, 날짜별로 다름을 보이기 위해 나머지엔 다른 임의의 링크를 넣었습니다.--> 
+    <area shape="rect" coords="379,1848,440,1878" href="https://www.gugak.go.kr/site/program/performance/detail?menuid=001001001&performance_id=33980" target="_blank" alt="[3월 22일] 3월, 토요국악동화 새해는 어떤 계절에 시작될까? 출연: 푸른 해" />
+    <area shape="rect" coords="453,1848,515,1878" href="https://www.gugak.go.kr/site/member/login?menuid=001008001" target="_blank" alt="[3월 29일] 3월, 토요국악동화 새해는 어떤 계절에 시작될까? 출연: 푸른 해" />
+    <!-- 2칸 공연(높이30) -->
+
+    <!--SPECIAL-->
+    <area shape="rect" coords="35,2200,346,2325" href="https://www.youtube.com/@gugak1951/shorts" target="_blank" alt="국악원 사람들 - 자료실 사서편, 고객지원실 티켓매니저편" />
+    <!--SPECIAL-->
+
+    <!--NOTICE-->
+    <area shape="rect" coords="379,2200,692,2325" href="https://www.gugak.go.kr/site/program/board/basicboard/view?menuid=001005006002&pagesize=10&boardtypeid=60&boardid=46611" target="_blank" alt="국립국악원, 4대 궁에서 국악의 정수 선보인다!" />
+    <!--NOTICE-->
+
+    <!--MAGAZINE-->
+    <area shape="rect" coords="161,2360,692,2448" href="https://media.gugak.go.kr/100_ncktpa/910_gugaksosik/gugaknuri/ttsbook/vol202/VRiBooks.htm?0" target="_blank" alt="더 많은 소식이 궁금하다면? 2025 3+4월호 국악누리" />
+    <!--MAGAZINE-->
+
+    <!-- //콘텐츠 -->
+
+    <!-- 좌측하단메뉴 -->
+    <area shape="rect" coords="35,2625,109,2658" href="https://archive.gugak.go.kr/portal/main" target="_blank" alt="(웹)국악아카이브" />
+    <area shape="rect" coords="113,2625,205,2658" href="https://academy.gugak.go.kr/common/greeting.do" target="_blank" alt="(웹)e-국악아카데미" />
+    <area shape="rect" coords="210,2625,279,2658" href="https://www.gugak.go.kr/site/program/gugakdata/dataList?menuid=001003004002001&book_type=%EB%8F%84%EC%84%9C&lang=ko" target="_blank" alt="(웹)국악자료실" />
+    <area shape="rect" coords="283,2625,343,2658" href="https://www.gugak.go.kr/ency/" target="_blank" alt="(웹)국악사전" />
+    <!-- 좌측하단메뉴 -->
+
+    <!-- 좌측하단아이콘 -->
+    <area shape="rect" coords="35,2577,75,2618 " href="https://www.gugak.go.kr" target="_blank" alt="(SNS)홈 국립국악원 누리집" />
+    <area shape="rect" coords="83,2577,123,2618" href="https://blog.naver.com/gugak1951" target="_blank" alt="(SNS)블로그" />
+    <area shape="rect" coords="131,2577,171,2618" href="https://www.instagram.com/gugak1951/" target="_blank" alt="(SNS)인스타그램" />
+    <area shape="rect" coords="179,2577,219,2673" href="https://www.facebook.com/gugak1951" target="_blank" alt="(SNS)페이스북" />
+    <area shape="rect" coords="227,2577,267,2673" href="https://x.com/gugak1951" target="_blank" alt="(SNS)X" />
+    <area shape="rect" coords="275,2577,315,2673" href="https://www.youtube.com/@gugak1951" target="_blank" alt="(SNS)유튜브" />
+    <area shape="rect" coords="323,2577,363,2673" href="http://pf.kakao.com/_TxbRyd" target="_blank" alt="(SNS)카카오채널" />
+    <!-- 좌측하단아이콘 -->
+    
+    <!-- 수신거부링크 -->
+    <area shape="rect" coords="170,2684,207,2701" href="#" target="_blank" alt="본 메일은 정보통신망 이용촉진 및 정보보호 등에 관한 법률시행규칙에 의거하여, 발송일 기준 수신동의 여부를 확인 후 발송되었습니다. 이 메일을 더 이상 받지 않으시려면 수신거부를 클릭해주세요.  If you don’t want to receive this e-mail anymore, CLICK HERE." />
+    <area shape="rect" coords="238,2697,296,2714" href="#" target="_blank" alt="본 메일은 정보통신망 이용촉진 및 정보보호 등에 관한 법률시행규칙에 의거하여, 발송일 기준 수신동의 여부를 확인 후 발송되었습니다. 이 메일을 더 이상 받지 않으시려면 수신거부를 클릭해주세요.  If you don’t want to receive this e-mail anymore, CLICK HERE." />
+    <!-- 수신거부링크 -->
+</map>
+</body>
+</html>
